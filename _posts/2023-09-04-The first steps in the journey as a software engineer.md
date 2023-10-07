@@ -1,5 +1,4 @@
 ---
-title: "The first steps in the journey as a software engineer"
-date: 2023-09-04
+title: "CS는 전공했는데, SWE이 되기가 어렵게"
+date: 2023-10-07
 ---
-
